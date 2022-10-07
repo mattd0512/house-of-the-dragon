@@ -1,0 +1,31 @@
+/* * {
+border: 3px;
+padding: auto;
+} */
+h1 {
+    text-align: center;
+    color: white;
+}
+
+#form {
+    text-align: center;
+}
+
+body {
+background-image: url(https://media1.popsugar-assets.com/files/thumbor/RULArzi8uqr7dtQN78pzJIG1MBc/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/04/08/960/n/1922507/c39129f5495d5fb5_game_of_thrones/i/Game-Thrones-Zoom-Background.jpg);
+}
+
+#container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+#container div {
+    background-color: white;
+    align-items: center;
+    margin: 10px;
+    width: 100%;
+    background-image: url(https://media.gq-magazine.co.uk/photos/6308d0cc0c44a35cdd527b2f/16:9/w_2560%2Cc_limit/milly-alcock_0.jpg);
+}
+
